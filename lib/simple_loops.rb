@@ -13,9 +13,6 @@ def loop_message_n_times(message, number)
 end
 
 
-
-#loop_message_n_times(10,"Hello")
-
 def output_array(array)
   counter = 0
   while array[counter] do
